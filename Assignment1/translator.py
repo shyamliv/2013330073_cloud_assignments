@@ -37,6 +37,6 @@ for li in lines:
 			stri=stri+" "
 	stri=stri+"\n"
 file.close()
-f =open("sum_32to64.asm",'w')
+f =open("64_bit.asm",'w')
 f.write(stri)
 f.close()
