@@ -1,4 +1,4 @@
-file = open('sum_32.asm')
+file = open('32_bit.asm')
 lines = file.readlines()
 stri=""
 for li in lines:
